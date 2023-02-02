@@ -1,0 +1,20 @@
+.carousel-item h1 {
+    color: #ba8a2f;
+}
+
+@media (min-width: 600px) {
+    .carousel-item {
+        height: 744px;
+    }
+}
+@media (max-width: 599px) {
+    .carousel-inner {
+        height: 260px;
+    }
+    .carousel-item {
+        height: 260px;
+    }
+    .carousel-item img {
+        height: 100%;
+    }
+}

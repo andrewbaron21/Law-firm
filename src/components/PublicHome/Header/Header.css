@@ -1,0 +1,17 @@
+.header-container {
+   background: #000; 
+   color: #fff;
+   font: 14px 'Open Sans', Arial, Helvetica, sans-serif;
+}
+nav {
+   height: 4rem;
+}
+
+.navbar-brand {
+    color:#fff !important;
+}
+
+.navbar-brand span{
+    color:#ba8a2f !important;
+    
+}
