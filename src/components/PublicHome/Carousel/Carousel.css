@@ -4,7 +4,7 @@
 
 @media (min-width: 600px) {
     .carousel-item {
-        height: 744px;
+        height: 544px;
     }
 }
 @media (max-width: 599px) {

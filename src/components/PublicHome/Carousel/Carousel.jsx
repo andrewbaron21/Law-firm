@@ -3,11 +3,11 @@ import './Carousel.css'
 const PublicHome = () => {
     return (
         <div className="">
-				<div id="carouselExampleCaptions" class="carousel slide " data-bs-ride="carousel">
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img src="http://template-preview.com/bootstrap-templates/lawyer/images/slide01.jpg" class="d-block w-100 peinture-ombre-interne-fine" alt="..." />
-							<div class="carousel-caption">
+				<div id="carouselExampleCaptions" className="carousel slide " data-bs-ride="carousel">
+					<div className="carousel-inner">
+						<div className="carousel-item active">
+							<img src="http://template-preview.com/bootstrap-templates/lawyer/images/slide01.jpg" className="d-block w-100 peinture-ombre-interne-fine" alt="..." />
+							<div className="carousel-caption">
 								<h1>
                                     Solución Legal Confiable
 								</h1>
@@ -16,25 +16,25 @@ const PublicHome = () => {
 								</p>
 							</div>
 						</div>
-						<div class="carousel-item">
-							<img src="http://template-preview.com/bootstrap-templates/lawyer/images/slide02.jpg" class="d-block w-100" alt="..." />
-							<div class="carousel-caption">
+						<div className="carousel-item">
+							<img src="http://template-preview.com/bootstrap-templates/lawyer/images/slide02.jpg" className="d-block w-100" alt="..." />
+							<div className="carousel-caption">
 								<h1>
                                     Solución Legal Confiable 
 								</h1>
 								<p>
-                                    Me enseñaron que se suponía que un abogado era un custodio del sentido legal y ético de la comunidad.
+                                    Me enseñaron que un abogado era un custodio del sentido legal y ético de la comunidad.
 								</p>
 							</div>
 						</div>
 					</div>
-					<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="visually-hidden">Previous</span>
+					<button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+						<span className="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span className="visually-hidden">Previous</span>
 					</button>
-					<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="visually-hidden">Next</span>
+					<button className="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+						<span className="carousel-control-next-icon" aria-hidden="true"></span>
+						<span className="visually-hidden">Next</span>
 					</button>
 				</div>
 		    </div>
