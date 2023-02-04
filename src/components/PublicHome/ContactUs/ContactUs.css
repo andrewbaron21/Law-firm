@@ -1,0 +1,23 @@
+.contact-us-container {
+    background: #ffffff;
+    color: #000000;
+}
+.description-choose-us h1 {
+    margin-bottom: 35px;
+}
+.description-choose-us h3, h6 {
+    color: #c29032;
+}
+
+@media (min-width: 600px) {
+    .description-choose-us h1 span {
+        padding-bottom: 15px;
+        border-bottom: #c29032 4px solid;
+    }
+ }
+ @media (max-width: 599px) {
+    .description-choose-us h1 {
+        padding-bottom: 30px;
+        border-bottom: #c29032 4px solid;
+    }
+ }

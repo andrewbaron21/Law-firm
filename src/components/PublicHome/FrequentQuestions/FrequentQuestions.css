@@ -1,0 +1,27 @@
+.frequent-questions-container {
+  background: #f3f3f3;
+  padding: 2rem 0;
+}
+.frequent-questions-container a {
+  text-decoration: none;
+}
+.out-square {
+  padding: 2rem;
+}
+.out-square:hover {
+  padding: 1.5px;
+  border: #c29032 1px solid;
+}
+.square {
+  background: #fff;
+  padding: 4rem 0;
+  color: #c29032;
+  border: #dfdfdf 1px solid;
+}
+.square:hover {
+  background: #c29032;
+  color: #fff;
+}
+
+
+

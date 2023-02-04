@@ -2,6 +2,9 @@
     background: #262626;
     color: #fff;
 }
+.description h1 {
+    margin-bottom: 35px;
+}
 .description h6 {
     color: #c29032;
 }
@@ -14,7 +17,7 @@
     }
 }
 .card {
-    width: 18rem;
+    width: 15rem;
     --bs-card-bg: #262626 !important;
     animation: 2.5s cubic-bezier(.25, 1, .30, 1) square-in-center both;
     color: #fff;
@@ -49,5 +52,16 @@
     transform: scale(1.1); 
 }
 
-  
+@media (min-width: 600px) {
+    .description h1 span {
+        padding-bottom: 15px;
+        border-bottom: #c29032 4px solid;
+    }
+ }
+ @media (max-width: 599px) {
+    .description h1 {
+        padding-bottom: 30px;
+        border-bottom: #c29032 4px solid;
+    }
+ }
  
