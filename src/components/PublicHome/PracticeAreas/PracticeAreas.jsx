@@ -24,7 +24,7 @@ const PracticeAreas = () => {
           <div className="services ">
             <div className="row text-center">
               <div className="col">
-                    <a href="#" className="">
+                    <a href="https://api.whatsapp.com/send?phone=573146889980&text=Buen día, estoy interesado en un asesoramiento de tema administrativo" target="_blank" className="">
                       <div className="card zoom">
                         <MdOutlineManageAccounts className="card-img-top services-icons" />
                         <div className="card-body">
@@ -35,7 +35,7 @@ const PracticeAreas = () => {
                     </a>
               </div>
               <div className="col">
-                    <a href="#" className="">
+                    <a href="https://api.whatsapp.com/send?phone=573146889980&text=Buen día, estoy interesado en un asesoramiento de tema penal" target="_blank" className="">
                       <div className="card zoom">
                         <BsGrid3X3 className="card-img-top services-icons" />
                         <div className="card-body">
@@ -46,7 +46,7 @@ const PracticeAreas = () => {
                     </a>
               </div>
               <div className="col">
-                    <a href="#" className="">
+                    <a href="https://api.whatsapp.com/send?phone=573146889980&text=Buen día, estoy interesado en un asesoramiento de tema familia" target="_blank" className="">
                       <div className="card zoom">
                         <MdOutlineFamilyRestroom className="card-img-top services-icons" />
                         <div className="card-body">
@@ -57,7 +57,7 @@ const PracticeAreas = () => {
                     </a>
               </div>
               <div className="col">
-                    <a href="#" className="">
+                    <a href="https://api.whatsapp.com/send?phone=573146889980&text=Buen día, estoy interesado en un asesoramiento de tema laboral" target="_blank" className="">
                       <div className="card zoom">
                         <RiSuitcaseLine className="card-img-top services-icons" />
                         <div className="card-body">
@@ -68,7 +68,7 @@ const PracticeAreas = () => {
                     </a>
               </div>
               <div className="col">
-                <a href="#" className="">
+                <a href="https://api.whatsapp.com/send?phone=573146889980&text=Buen día, estoy interesado en un asesoramiento de tema civil" target="_blank" className="">
                   <div className="card zoom">
                     <GoLaw className="card-img-top services-icons" />
                     <div className="card-body">

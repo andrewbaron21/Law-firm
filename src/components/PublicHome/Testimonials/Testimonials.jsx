@@ -18,7 +18,7 @@ const PracticeAreas = () => {
                 <div className="row justify-content-md-center">
                   <div className="col-md-4 col-sm-12">
                     <ul className="cards">
-                          <a href="" className="card">
+                          <div className="card">
                             <img src="http://template-preview.com/bootstrap-templates/lawyer/images/team3.png" className="card__image" alt="" />
                             <div className="card__overlay">
                               <div className="card__header">
@@ -30,13 +30,13 @@ const PracticeAreas = () => {
                               </div>
                               <p className="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                             </div>
-                          </a>      
+                          </div>      
                     </ul>
                   </div>
                   <div className="col-md-4 col-sm-12">
                         <ul className="cards">
                             <li>
-                              <a href="" className="card">
+                              <div className="card">
                                 <img src="http://template-preview.com/bootstrap-templates/lawyer/images/team2.png" className="card__image" alt="" />
                                 <div className="card__overlay">
                                   <div className="card__header">
@@ -48,13 +48,13 @@ const PracticeAreas = () => {
                                   </div>
                                   <p className="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                                 </div>
-                              </a>      
+                              </div>      
                             </li>  
                         </ul>
                   </div>
                   <div className="col-md-4 col-sm-12">
                     <ul className="cards">
-                          <a href="" className="card">
+                          <div className="card">
                             <img src="http://template-preview.com/bootstrap-templates/lawyer/images/team3.png" className="card__image" alt="" />
                             <div className="card__overlay">
                               <div className="card__header">
@@ -66,7 +66,7 @@ const PracticeAreas = () => {
                               </div>
                               <p className="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                             </div>
-                          </a>      
+                          </div>      
                     </ul>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ const PracticeAreas = () => {
                     <div className="col-md-4 col-sm-12">
                       <ul className="cards">
                           <li>
-                            <a href="" className="card">
+                            <div className="card">
                               <img src="http://template-preview.com/bootstrap-templates/lawyer/images/team2.png" className="card__image" alt="" />
                               <div className="card__overlay">
                                 <div className="card__header">
@@ -88,13 +88,13 @@ const PracticeAreas = () => {
                                 </div>
                                 <p className="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                               </div>
-                            </a>      
+                            </div>      
                           </li>  
                       </ul>
                     </div>
                     <div className="col-md-4 col-sm-12">
                       <ul className="cards">
-                            <a href="" className="card">
+                            <div className="card">
                               <img src="http://template-preview.com/bootstrap-templates/lawyer/images/team3.png" className="card__image" alt="" />
                               <div className="card__overlay">
                                 <div className="card__header">
@@ -106,13 +106,13 @@ const PracticeAreas = () => {
                                 </div>
                                 <p className="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                               </div>
-                            </a>      
+                            </div>      
                       </ul>
                     </div>
                     <div className="col-md-4 col-sm-12">
                       <ul className="cards">
                           <li>
-                            <a href="" className="card">
+                            <div className="card">
                               <img src="http://template-preview.com/bootstrap-templates/lawyer/images/team2.png" className="card__image" alt="" />
                               <div className="card__overlay">
                                 <div className="card__header">
@@ -124,7 +124,7 @@ const PracticeAreas = () => {
                                 </div>
                                 <p className="card__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, blanditiis?</p>
                               </div>
-                            </a>      
+                            </div>      
                           </li>  
                       </ul>
                     </div>

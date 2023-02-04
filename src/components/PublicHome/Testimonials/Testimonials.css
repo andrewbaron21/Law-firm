@@ -127,12 +127,12 @@
   }    
 
 @media (min-width: 600px) {
-    div ul a {
+    div ul .card {
         width: 21rem !important;
     }
 }
 @media (max-width: 599px) {
-    div ul a {
+    div ul .card {
         width: 15rem !important;
     }
 }

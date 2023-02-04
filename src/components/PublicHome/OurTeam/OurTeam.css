@@ -2,6 +2,14 @@
     background: #f3f3f3;
 }
 
+.our-team-container a {
+    text-decoration: none;
+}
+
+.our-team-container p {
+    color: #000;
+}
+
 .our-team {
     margin: 2rem 0;
     border-radius: 15px;
