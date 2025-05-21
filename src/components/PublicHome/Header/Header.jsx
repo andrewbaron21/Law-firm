@@ -6,10 +6,10 @@ const PublicHome = () => {
       <div className="header-container">
         <div className="container">
           <nav className="navbar navbar-light row text-center">
-            <a className="navbar-brand col-md-8 col-sm-12"><span>Baron</span> Abogados</a>
+            <a className="navbar-brand col-md-8 col-sm-12"><span>Montoya & Mejia</span> Abogados y Asociados</a>
             <a className="nav-item nav-link col" href="#services">Servicios</a>
             <a className="nav-item nav-link col" href="#questions">Preguntas</a>  
-            <a className="nav-item nav-link col" href="#contact-us">Contact us</a>
+            <a className="nav-item nav-link col" href="#contact-us">Contáctanos</a>
           </nav>
         </div>
         <SEO />

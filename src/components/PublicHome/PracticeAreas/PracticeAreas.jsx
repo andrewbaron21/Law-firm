@@ -14,12 +14,14 @@ const PracticeAreas = () => {
         <div className="container">
           <div className="row justify-content-md-center">
             <div className="description col-md-8 col-sm-12 text-center">
-              <h6>AREAS DE PRÁCTICA</h6>
-              <h1>CÓMO <span>TE PODEMOS</span> AYUDAR</h1>
+              <h6>M & M</h6>
+              <h1><span>MISIÓN</span></h1>
               <p className="">
-                Lorem Ipsum is simply dummy text of the printinLorem Ipsum is simply mmy text of the printing and typeseing industry Lorem Ipsum has been the industrys standard
-                dummy text ever since the when an g and typeseing indu Lorem Ipsumf the printing and. Typeseing industry Lorem Ipsum has been the industrys standard.
-                Dummy text ever since the when when an stry Lorem Ipsum.
+                En Montoya & Mejía Abogados y Asociados ofrecemos asesoría y representación legal en todas las áreas del derecho, brindando soluciones jurídicas integrales, eficientes y personalizadas. Contamos con un equipo de abogados altamente capacitados, con más de 10 años de experiencia, comprometidos con la ética, el respeto y la vocación de servicio. Nuestra firma, con sede en Pereira y presencia a nivel nacional, trabaja cada día por proteger los derechos e intereses de nuestros clientes.
+              </p>
+              <h1><span>VISIÓN</span></h1>
+              <p className="">
+                Ser reconocidos a nivel nacional como una firma legal de confianza, que se distingue por su profesionalismo, calidad humana y excelencia en el ejercicio del derecho. En Montoya & Mejía Abogados y Asociados aspiramos a seguir creciendo junto a nuestros clientes, consolidándonos como aliados estratégicos en la búsqueda de justicia y soluciones efectivas.
               </p>
             </div>
           </div>
@@ -32,7 +34,6 @@ const PracticeAreas = () => {
                     <MdOutlineManageAccounts className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Administrativo</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>
@@ -43,7 +44,6 @@ const PracticeAreas = () => {
                     <GoLaw className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Civil</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>
@@ -54,7 +54,6 @@ const PracticeAreas = () => {
                     <MdOutlineManageAccounts className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Constitucional</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>
@@ -65,7 +64,6 @@ const PracticeAreas = () => {
                     <GiTrade className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Comercial o mercantil</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>
@@ -76,7 +74,6 @@ const PracticeAreas = () => {
                     <MdOutlineFamilyRestroom className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Familia</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>
@@ -87,7 +84,6 @@ const PracticeAreas = () => {
                     <RiSuitcaseLine className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Laboral</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>
@@ -98,18 +94,6 @@ const PracticeAreas = () => {
                     <AiOutlineMedicineBox className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Responsabilidad medica</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div className="col">
-                <a href="https://api.whatsapp.com/send?phone=573146889980&text=Buen día, estoy interesado en un asesoramiento de tema familia" target="_blank" className="">
-                  <div className="card zoom">
-                    <FaMoneyCheckAlt className="card-img-top services-icons" />
-                    <div className="card-body">
-                      <h5 className="card-title">tributario</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>
@@ -120,7 +104,6 @@ const PracticeAreas = () => {
                     <BsGrid3X3 className="card-img-top services-icons" />
                     <div className="card-body">
                       <h5 className="card-title">Penal</h5>
-                      <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     </div>
                   </div>
                 </a>

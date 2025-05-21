@@ -1,4 +1,5 @@
 import './Carousel.css'
+import Lawyers from '../../../gallery/Lawyers.jpg';
 
 const PublicHome = () => {
     return (
@@ -6,25 +7,13 @@ const PublicHome = () => {
 			<div id="carouselExampleCaptions" className="carousel slide " data-bs-ride="carousel">
 				<div className="carousel-inner">
 					<div className="carousel-item active">
-						<img src="http://template-preview.com/bootstrap-templates/lawyer/images/slide01.jpg" className="d-block w-100 peinture-ombre-interne-fine" alt="..." />
+						<img src={Lawyers} className="d-block w-100 peinture-ombre-interne-fine" alt="..." />
 						<div className="carousel-caption">
-							<h1>
-								Solución Legal Confiable
-							</h1>
-							<p>
-								Soy una abogada. Voy por el debido proceso; Apuesto por la justicia y la equidad: estos valores significan mucho para mí.
-							</p>
 						</div>
 					</div>
 					<div className="carousel-item">
 						<img src="http://template-preview.com/bootstrap-templates/lawyer/images/slide02.jpg" className="d-block w-100" alt="..." />
 						<div className="carousel-caption">
-							<h1>
-								Solución Legal Confiable 
-							</h1>
-							<p>
-								Me enseñaron que un abogado era un custodio del sentido legal y ético de la comunidad.
-							</p>
 						</div>
 					</div>
 				</div>

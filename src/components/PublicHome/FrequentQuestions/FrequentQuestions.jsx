@@ -9,72 +9,71 @@ const PublicHome = () => {
                 <div className="col-md-6 col-sm-12">
                     <div className="out-square" data-bs-toggle="collapse" href="#collapse-one" role="button">
                       <div className="square">
-                          <h5>Derecho administrativo</h5>
+                          <h5>Área de Derecho de Familia</h5>
                       </div>
                       <div className="collapse" id="collapse-one">
                         <div className="text-details">
-                          El Derecho administrativo es el conjunto de normas jurídicas que regula la organización, funcionamiento y atribuciones de la Administración pública en sus relaciones con los particulares y con otras Administraciones Públicas (personificadas en una diversidad de órganos). Por ejemplo, los requisitos para pedir una licencia de obras o de caza, los modos de acceder a la función pública, las exigencias para solicitar una subvención
+                          Brindamos asesoría y representación en procesos de separación, divorcio, custodia, alimentos, visitas, adopciones, patria potestad, unión marital de hecho y sucesiones. Trabajamos con enfoque humano y acompañamiento integral en la protección de los derechos de las familias.
+                        </div>
+                      </div>
+                    </div>
+                </div>
+                   <div className="col-md-6 col-sm-12">
+                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-one" role="button">
+                      <div className="square">
+                          <h5>Área de Seguridad Social (Pensiones)</h5>
+                      </div>
+                      <div className="collapse" id="collapse-one">
+                        <div className="text-details">
+                          Orientamos y representamos a nuestros clientes en trámites relacionados con pensiones de vejez, invalidez y sobrevivientes, así como en traslados de régimen, reliquidaciones y reconocimiento de semanas cotizadas. Defensa ante fondos públicos y privados.
                         </div>
                       </div>
                     </div>
                 </div>
                 <div className="col-md-6 col-sm-12">
-                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-two" role="button">
+                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-one" role="button">
                       <div className="square">
-                          <h5>Derecho constitucional</h5>
+                          <h5>Área de Derecho Civil</h5>
                       </div>
-                      <div className="collapse" id="collapse-two">
+                      <div className="collapse" id="collapse-one">
                         <div className="text-details">
-                          El Derecho constitucional (también denominado Derecho político) se ocupa del análisis de las leyes fundamentales que definen un Estado. De esta manera, es materia de estudio todo lo relativo a la forma de Estado, forma de gobierno, derechos fundamentales y la regulación de los poderes públicos, incluyendo tanto las relaciones entre poderes públicos, como las relaciones entre los poderes públicos y los ciudadanos.
+                          Manejamos procesos de responsabilidad civil, contratos civiles, arrendamientos, pertenencias, resolución de contratos, conflictos de propiedad y reclamaciones de daños. Brindamos soluciones jurídicas en conflictos entre particulares.
                         </div>
                       </div>
                     </div>
                 </div>
                 <div className="col-md-6 col-sm-12">
-                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-three" role="button">
+                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-one" role="button">
                       <div className="square">
-                          <h5>Derecho Penal</h5>
+                          <h5>Área de Derecho Administrativo</h5>
                       </div>
-                      <div className="collapse" id="collapse-three">
+                      <div className="collapse" id="collapse-one">
                         <div className="text-details">
-                          El Derecho Penal es el conjunto de normas que recogen los delitos, las penas que el Estado impone a los delincuentes y las medidas de seguridad que el mismo establece para la prevención de la criminalidad. Se da el nombre de delitos a ciertas acciones antisociales prohibidas por la ley, cuya comisión hace acreedor al delincuente a determinadas sanciones conocidas con el nombre específico de penas.                        
+                          Representamos a personas naturales y jurídicas en procesos frente a entidades del Estado. Asesoramos en demandas por nulidad y restablecimiento del derecho, reparaciones directas, responsabilidad del Estado, contratos estatales y recursos administrativos.
                         </div>
                       </div>
                     </div>
                 </div>
                 <div className="col-md-6 col-sm-12">
-                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-four" role="button">
+                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-one" role="button">
                       <div className="square">
-                          <h5>Derecho laboral</h5>
+                          <h5>Área de Derecho Comercial</h5>
                       </div>
-                      <div className="collapse" id="collapse-four">
+                      <div className="collapse" id="collapse-one">
                         <div className="text-details">
-                          El Derecho laboral (también llamado Derecho del trabajo) es una rama del Derecho cuyos principios y normas jurídicas tienen por objeto la tutela del trabajo humano, productivo, libre y por cuenta ajena.
-                          El Derecho Civil, regula las relaciones entre particulares, ya sean personas físicas o jurídicas. Es la más utilizada entre las ramas del derecho ya que comprende las relaciones patrimoniales, personales, de vecindad, de familia, de derecho sucesorio.                        
+                          Ofrecemos asesoría en contratos mercantiles, sociedades, cobros jurídicos, propiedad industrial, insolvencia empresarial, títulos valores, y litigios comerciales. Apoyamos tanto a empresas como a comerciantes individuales.
                         </div>
                       </div>
                     </div>
                 </div>
                 <div className="col-md-6 col-sm-12">
-                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-five" role="button">
+                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-one" role="button">
                       <div className="square">
-                          <h5>Responsabilidad <br/> profesional médica </h5>
+                          <h5>Área de Responsabilidad Civil Contractual y Extracontractual</h5>
                       </div>
-                      <div className="collapse" id="collapse-five">
+                      <div className="collapse" id="collapse-one">
                         <div className="text-details">
-                          La responsabilidad profesional médica es la obligación que tienen los médicos de reparar y satisfacer las consecuencias de los actos, omisiones y errores voluntarios e involuntarios incluso, dentro de ciertos límites, cometidos en el ejercicio de su profesión
-                        </div>
-                      </div>
-                    </div>
-                </div>
-                <div className="col-md-6 col-sm-12">
-                    <div className="out-square" data-bs-toggle="collapse" href="#collapse-six" role="button">
-                      <div className="square">
-                          <h5>Derecho tributario </h5>
-                      </div>
-                      <div className="collapse" id="collapse-six">
-                        <div className="text-details">
-                          El derecho tributario es la rama principal en el Estado colombiano y en la cual se desprende la hacienda pública, donde el tributo obligatorio se debe distinguir a los impuestos de los ingresos públicos de carácter gratuito donaciones y voluntarios                        
+                          Representamos a víctimas de daños por incumplimientos contractuales o por hechos como accidentes de tránsito, fallas médicas, productos defectuosos, entre otros. Buscamos la reparación integral del daño, ya sea patrimonial o moral.
                         </div>
                       </div>
                     </div>

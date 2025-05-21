@@ -32,7 +32,7 @@ const PublicHome = () => {
     };
     
     useEffect(() => {
-        if (lawyer < 4) {
+        if (lawyer < 5) {
             sumLawyer()
         }
         if (cases < 102) {
