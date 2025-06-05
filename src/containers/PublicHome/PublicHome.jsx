@@ -16,7 +16,7 @@ const PublicHome = () => {
         <Info />
         <PracticeAreas />
         {/* <ChooseUs /> */}
-        <FrequentQuestions />
+        {/* <FrequentQuestions /> */}
         {/* <Testimonials /> */}
         <OurTeam />
         <ContactUs />

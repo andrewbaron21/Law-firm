@@ -1,4 +1,5 @@
 import './ContactUs.css';
+import { FaWhatsappSquare } from "react-icons/fa";
 
 const PracticeAreas = () => {
     return (
@@ -27,7 +28,7 @@ const PracticeAreas = () => {
                 <p><i className="fas fa-home me-3"></i> Dirección: Calle 39 No. 7-19, Tercer Piso, Pereira, Risaralda</p>
                 <p>
                     <i className="fas fa-print me-3"></i>
-                    <a href="tel:3146889980">314-688-9980</a>
+                    <a href="tel:3146889980"><FaWhatsappSquare style={{ color: "green" }} />314-688-9980</a>
                 </p>
               </div>
             </div>

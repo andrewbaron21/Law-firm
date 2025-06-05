@@ -10,6 +10,28 @@
     color: #000;
 }
 
+.our-team p.collapsed {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.our-team p.expanded {
+  display: block;
+}
+
+.read-more {
+  display: block;
+  text-align: center;
+  color: #007bff;
+  cursor: pointer;
+  font-weight: bold;
+  margin-top: 5px;
+  background: none;
+  border: none;
+}
+
 .our-team {
     margin: 2rem 0;
     border-radius: 15px;
